@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../ch01" />
+    <file type="web" url="file://$PROJECT_DIR$/ch01" />
+    <file type="web" url="file://$PROJECT_DIR$/ch02_eljianhua" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03_ysbds" />
+    <file type="web" url="file://$PROJECT_DIR$/ch04_nzdx" />
+    <file type="web" url="file://$PROJECT_DIR$/ch04_ys" />
+    <file type="web" url="file://$PROJECT_DIR$/ch05_onlineTest" />
+    <file type="web" url="file://$PROJECT_DIR$/ch06chyc" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch02_eljianhua/pom.xml" />
+        <option value="$PROJECT_DIR$/ch01/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03_ysbds/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04_nzdx/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05_onlineTest/pom.xml" />
+        <option value="$PROJECT_DIR$/ch06chyc/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

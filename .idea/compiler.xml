@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch01" />
+        <module name="ch04_nzdx" />
+        <module name="ch05_onlineTest" />
+        <module name="ch02_eljianhua" />
+        <module name="ch03_ysbds" />
+        <module name="ch06chyc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch01" target="1.8" />
+      <module name="ch02_eljianhua" target="1.8" />
+      <module name="ch03_ysbds" target="1.8" />
+      <module name="ch04_nzdx" target="1.8" />
+      <module name="ch04_ys" target="1.8" />
+      <module name="ch05_onlineTest" target="1.8" />
+      <module name="ch06chyc" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

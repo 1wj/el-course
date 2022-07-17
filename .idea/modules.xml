@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01/ch01.iml" filepath="$PROJECT_DIR$/ch01/ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02_eljianhua/ch02_eljianhua.iml" filepath="$PROJECT_DIR$/ch02_eljianhua/ch02_eljianhua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03_ysbds/ch03_ysbds.iml" filepath="$PROJECT_DIR$/ch03_ysbds/ch03_ysbds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04_nzdx/ch04_nzdx.iml" filepath="$PROJECT_DIR$/ch04_nzdx/ch04_nzdx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05_onlineTest/ch05_onlineTest.iml" filepath="$PROJECT_DIR$/ch05_onlineTest/ch05_onlineTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06chyc/ch06chyc.iml" filepath="$PROJECT_DIR$/ch06chyc/ch06chyc.iml" />
+    </modules>
+  </component>
+</project>
